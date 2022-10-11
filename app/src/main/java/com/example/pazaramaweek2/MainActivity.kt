@@ -25,7 +25,7 @@ class MainActivity : AppCompatActivity() {
             logIntent.putExtra("password",mainPassword.text.toString())
             startActivity(logIntent)
         }
-        
+
 
     }
 
