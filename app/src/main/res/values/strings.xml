@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">PazaramaWeek2</string>
+    <string name="todo">TODO</string>
+    <string name="login">Login</string>
+    <string name="log_in">Log in</string>
+    <string name="btnlogin">Login</string>
+    <string name="btn">Log in</string>
+    <string name="password">Password</string>
+    <string name="e_mail">E mail</string>
+    <string name="welcome">welcome</string>
+    <string name="bauss">bauss</string>
+    <string name="city">city</string>
+    <string name="twe_mail">E mail</string>
+    <string name="sign_up">Sign up</string>
+    <string name="btn_log_in">Log in</string>
+    <string name="forget_password">Forget Password</string>
+    <string name="suBack">Button</string>
+    <string name="su_sign_up">Sign Up</string>
+    <string name="su_sign_up_tw">Sign Up</string>
+    <string name="su_username">Username</string>
+    <string name="su_et_username">username</string>
+    <string name="su_tw_email_adress">Email Address</string>
+    <string name="example_example_com">example@example.com</string>
+    <string name="su_et_password">Password</string>
+    <string name="su_register">Register</string>
+    <string name="su_city">TODO</string>
+    <string name="su_back_btn">TODO</string>
+    <string name="log_tw_email">Email Address</string>
+    <string name="log_tw_password">Password</string>
+    <string name="log_back_btn">Back</string>
+
+</resources>
